@@ -1,6 +1,6 @@
 
 
-# [Patrick Bryant](https://github.com/patrickbryant1)
+# [Patrick Bryant](https://patrickbryantlab.github.io)
 
 #### 📫 How to reach me:
 
@@ -8,7 +8,7 @@
 
 
 #### 🔬 Research
-[<img src="https://img.icons8.com/?size=100&id=79076&format=png&color=000000" width="3.5%"/>](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao) &nbsp;
-[<img src="https://patrickbryantlab.github.io/assets/logo.svg" width="3.5%"/>](https://patrickbryantlab.github.io) &nbsp; [SciLifeLab profile](https://www.scilifelab.se/researchers/patrick-bryant/)
+[<img src="https://img.icons8.com/?size=100&id=79076&format=png&color=000000" width="3.5%"/>](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao)
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
