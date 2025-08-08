@@ -1,6 +1,7 @@
 
 # [Patrick Bryant](https://patrickbryantlab.github.io)
-In my team, we develop the drugs of the future: peptides
+In my team, we develop the drugs of the future: [peptides](https://en.wikipedia.org/wiki/Peptide) &nbsp;
+[<img src="https://img.icons8.com/?size=100&id=13291&format=png&color=000000" width="3.5%"/>]()
 - Dedicated scientist
 - For a healthier future
 
