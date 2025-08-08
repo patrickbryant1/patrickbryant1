@@ -1,11 +1,8 @@
 
 # [Patrick Bryant](https://patrickbryantlab.github.io)
-In my team we develop the future of drug design: peptides
---> for a healthier future
-
-
-
-#### 📫 Contact:
+In my team, we develop the future of drug design: peptides
+- Dedicated scientist
+- For a healthier future
 
 [<img src="https://img.icons8.com/?size=100&id=79076&format=png&color=000000" width="3.5%"/>](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao) &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Patrick18287926)  &nbsp;
