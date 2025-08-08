@@ -12,11 +12,12 @@ In my team, we develop the drugs of the future: peptides
 
   <details>
   <summary>
-    More stuff about me
+    More about me
   </summary>
 
 
 
-
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
+[SciLifeLab](https://www.scilifelab.se/researchers/patrick-bryant/)
+[Stockholm University](https://www.scilifelab.se/researchers/patrick-bryant/)
