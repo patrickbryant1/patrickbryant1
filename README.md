@@ -9,4 +9,4 @@
 #### Research
 [Google Scholar](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao) &nbsp; [patrickbryantlab](https://patrickbryantlab.github.io) &nbsp; [SciLifeLab profile](https://www.scilifelab.se/researchers/patrick-bryant/)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
