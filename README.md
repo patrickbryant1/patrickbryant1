@@ -1,6 +1,6 @@
 
 # [Patrick Bryant](https://patrickbryantlab.github.io)
-In my team, we develop the future of drug design: peptides
+In my team, we develop the drugs of the future: peptides
 - Dedicated scientist
 - For a healthier future
 
