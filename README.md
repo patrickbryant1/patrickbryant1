@@ -21,3 +21,6 @@ In my team, we develop the drugs of the future: peptides
 
 [SciLifeLab](https://www.scilifelab.se/researchers/patrick-bryant/)
 [Stockholm University](https://www.scilifelab.se/researchers/patrick-bryant/)
+
+#### Favourite Software from me right now
+https://github.com/patrickbryant1/RareFold
