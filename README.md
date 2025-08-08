@@ -8,6 +8,6 @@
 
 
 #### 🔬 Research
-[<img src="https://icons8.com/icon/okYCvWotC0uX/google-scholar--v2" width="3.5%"/>](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao) &nbsp; [patrickbryantlab](https://patrickbryantlab.github.io) &nbsp; [SciLifeLab profile](https://www.scilifelab.se/researchers/patrick-bryant/)
+[<img src="https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png&color=000000" width="3.5%"/>](https://scholar.google.com/citations?user=KPlaFQQAAAAJ&hl=en&oi=ao) &nbsp; [patrickbryantlab](https://patrickbryantlab.github.io) &nbsp; [SciLifeLab profile](https://www.scilifelab.se/researchers/patrick-bryant/)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
