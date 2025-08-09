@@ -27,6 +27,6 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
         <summary><b>Latest Research</b></summary>
     <br>
 
-[Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
-[HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
+[Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1) \
+[HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1) \
 [Metabolic disease](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
