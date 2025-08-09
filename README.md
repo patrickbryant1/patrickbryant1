@@ -16,7 +16,7 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 <div align="left">
     <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
+        <summary><b>GitHub Metrics</b></summary>
     <br>
 
 
