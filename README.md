@@ -1,6 +1,6 @@
 
 # [Patrick Bryant](https://patrickbryantlab.github.io)
-I'm an assistant professor at Stockholm University/SciLifeLab.
+I'm an assistant professor at [Stockholm University](https://www.scilifelab.se/researchers/patrick-bryant/)/[SciLifeLab](https://www.scilifelab.se/researchers/patrick-bryant/). \
 In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.org/wiki/Peptide)
 - Dedicated scientist
 - For a healthier future
@@ -13,9 +13,6 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
-
-[SciLifeLab](https://www.scilifelab.se/researchers/patrick-bryant/)
-[Stockholm University](https://www.scilifelab.se/researchers/patrick-bryant/)
 
 #### Favourite Software from my team right now
 https://github.com/patrickbryant1/RareFold
