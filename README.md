@@ -16,7 +16,7 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 
 #### Latest Research
-[<img src="https://patrickbryantlab.github.io/assets/cyclic_rare.gif" width="3.5%"/>](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v) &nbsp;
+[<img src="https://patrickbryantlab.github.io/assets/cyclic_rare.gif" width="35%"/>](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v) &nbsp;
 
 [Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1) \
 [HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1) \
