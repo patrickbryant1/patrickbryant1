@@ -1,6 +1,6 @@
 
 # [Patrick Bryant](https://patrickbryantlab.github.io)
-I'm an assistant professor at [Stockholm University](https://www.scilifelab.se/researchers/patrick-bryant/) and [SciLifeLab](https://www.scilifelab.se/researchers/patrick-bryant/). \
+I'm an assistant professor at [Stockholm University](https://www.su.se/department-of-molecular-biosciences-the-wenner-gren-institute/) and [SciLifeLab](https://www.scilifelab.se). \
 In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.org/wiki/Peptide)
 - Dedicated scientist
 - For a healthier future
