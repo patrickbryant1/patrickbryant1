@@ -29,7 +29,7 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 [Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
 
-[RareFold](https://patrickbryantlab.github.io/assets/cyclic_rare.gif)
+![RareFold](https://patrickbryantlab.github.io/assets/cyclic_rare.gif)
 
 [HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1) \
 [Metabolic disease](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
