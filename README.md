@@ -14,5 +14,8 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 #### Favourite Software from my team right now: [RareFold](https://github.com/patrickbryant1/RareFold)
 
-
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
 [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
