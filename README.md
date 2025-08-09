@@ -14,20 +14,19 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 #### Favourite Software from my team right now: [RareFold](https://github.com/patrickbryant1/RareFold)
 
-
-#### Latest Research
-[<img src="https://patrickbryantlab.github.io/assets/cyclic_rare.gif" width="35%"/>](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v) &nbsp;
-
-[Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1) \
-[HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1) \
-[Metabolic disease](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
-
-
 <div align="left">
     <details>
         <summary><b>GitHub Metrics</b></summary>
     <br>
 
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true)](https://github-readme-stats.vercel.app/api?username=patrickbryant1&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
+
+<div align="left">
+    <details>
+        <summary><b>Latest Research</b></summary>
+    <br>
+
+[Noncanonical amino acids](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1) \
+[HIV inhibitor](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1) \
+[Metabolic disease](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
