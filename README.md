@@ -24,6 +24,13 @@ In my team, we develop the drugs of the future: [Peptides](https://en.wikipedia.
 
 <div align="left">
     <details>
-        <summary><b>Latest research</b></summary>
+        <summary><b>Latest Research</b></summary>
     <br>
+
+    1. [Li Q, Daumiller D, Bryant P. RareFold: Structure prediction and design of proteins with noncanonical amino acids. bioRxiv. 2025. p. 2025.05.19.654846. doi:10.1101/2025.05.19.654846](https://www.biorxiv.org/content/10.1101/2025.05.19.654846v1)
+
+    2. [Daumiller D*, Giammarino F*, Li Q, Sonnerborg A, Cena-Diez R, Bryant P. Single-Shot Design of a Cyclic Peptide Inhibitor of HIV-1 Membrane Fusion with EvoBind. bioRxiv. 2025. p. 2025.04.30.651413. doi:10.1101/2025.04.30.651413](https://www.biorxiv.org/content/10.1101/2025.04.30.651413v1)
+
+    3. [Li Q, Wiita E, Helleday T, Bryant P. Blind De Novo Design of Dual Cyclic Peptide Agonists Targeting GCGR and GLP1R. bioRxiv. 2025. p. 2025.06.06.658268. doi: https://doi.org/10.1101/2025.06.06.658268](https://www.biorxiv.org/content/10.1101/2025.06.06.658268v1)
+
 </div>
